@@ -1,1 +1,2 @@
-test is added to file 1
+File 1 is created in directory 1 
+helo world this is Aditya Jha from CSE dept in 2nd year and the courses are very tough.
